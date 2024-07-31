@@ -77,7 +77,7 @@
               }
             ]
           },
-          "unit": "watt-hour"
+          "unit": "kwatth"
         },
         "overrides": []
       },
